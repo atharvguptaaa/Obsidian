@@ -1,0 +1,2 @@
+- A literary editor for writing essays, poems or articles.
+- 

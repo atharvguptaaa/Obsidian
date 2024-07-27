@@ -1,6 +1,9 @@
 [
   "editing-toolbar",
-  "url-into-selection",
+  "text-extractor",
   "settings-search",
-  "templater-obsidian"
+  "click-clack",
+  "pieces-for-developers",
+  "obsidian-editor-shortcuts",
+  "obsidian-checklist-plugin"
 ]

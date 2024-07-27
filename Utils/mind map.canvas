@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2e92441add7a9ab6","type":"text","text":"backend series","x":-145,"y":-140,"width":305,"height":70},
+		{"id":"12ba5afffad6ea3e","type":"text","text":"frontend project","x":-440,"y":20,"width":250,"height":60},
+		{"id":"71ed9472ddf693ca","type":"text","text":"ai+web project","x":-117,"y":21,"width":250,"height":59},
+		{"id":"a1747792f3848369","type":"text","text":"portfolio project w/ animations","x":220,"y":20,"width":250,"height":60},
+		{"id":"551001fe63681333","type":"text","text":"Mocks for placement","x":-117,"y":200,"width":250,"height":60},
+		{"id":"61d3ba0cb1e3c00d","type":"text","text":"DSA","x":-117,"y":-280,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[]
+}
