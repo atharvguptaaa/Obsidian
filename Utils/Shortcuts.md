@@ -9,3 +9,4 @@ Shift+Alt+A : Insert code block
 Ctrl+Q : Font Color
 Ctrl+num: Heading
 ctrl+shift+H - hi
+*** - line

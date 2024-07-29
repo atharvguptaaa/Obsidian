@@ -80,6 +80,12 @@
       "icon": "highlight-glyph"
     },
     {
+      "id": "SubmenuCommands-lz4l6tc3n",
+      "name": "submenu",
+      "icon": "remix-Filter3Line",
+      "SubmenuCommands": []
+    },
+    {
       "id": "SubmenuCommands-lucdf3en5",
       "name": "submenu",
       "icon": "edit",

@@ -2,5 +2,6 @@
   "spellcheck": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "ZZattachments"
+  "attachmentFolderPath": "ZZattachments",
+  "showIndentGuide": false
 }

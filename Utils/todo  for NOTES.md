@@ -2,4 +2,5 @@
 - [ ] rtk notes 
 - [ ] class constructor
 - [ ] node js
+- [ ] usememo
 

@@ -1,0 +1,7 @@
+1. <font color="#9bbb59">Virtual DOM</font>: React creates a lightweight copy of the actual DOM, known as the virtual DOM. When a component's state changes, React updates this virtual DOM instead of the real DOM, making the process faster.
+ 2. <font color="#9bbb59">Diffing Algorithm</font>: React compares the new virtual DOM with the previous version using a diffing algorithm. This helps identify what has changed.
+ 3. <font color="#9bbb59">Reconciliation</font>: Once React knows what has changed, it updates only the specific parts of the actual DOM that need to be changed, rather than re-rendering the entire UI. This process is called reconciliation.
+ 4. <font color="#9bbb59">Component-Based Architecture</font>: React applications are built using components, which are independent, reusable pieces of UI. Each component can manage its own state and lifecycle, making the development process more modular and easier to manage.
+ 5. <font color="#9bbb59">React Fiber</font>: React Fiber is the new reconciliation engine in React 16 and above. It breaks rendering work into small units and spreads it out over multiple frames, resulting in a smoother user experience, especially for animations and complex applications.
+ 6. <font color="#9bbb59">Hooks</font>: React hooks allow you to use state and other React features in functional components, providing more flexibility and a simpler API for managing state and side effects. 
+
