@@ -15,3 +15,5 @@ orderDetails,
 ```
 
 During subsequent renders, it will either return an already stored `fn` function from the last render (if the dependencies haven’t changed), or return the `fn` function you have passed during this render.
+
+See [[UseCallback vs UseMemo]]

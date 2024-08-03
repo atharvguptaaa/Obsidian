@@ -2,5 +2,12 @@
 - [ ] rtk notes 
 - [ ] class constructor
 - [ ] node js
-- [ ] usememo
+- [x] usememo
+- [x] useref
+- [x] gec
+- [ ] pagination
+- [ ] events
+- [x] non blocking io
+- [ ] cleanup function
+- [x] cdn
 
