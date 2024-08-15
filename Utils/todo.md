@@ -5,7 +5,7 @@
 - [ ] give one mock
 
 #todo/eventually
-- [ ] make a frontend project
+- [x] make a frontend project
 - [ ] sun and wed for mocks from this week
 - [ ] axios
 

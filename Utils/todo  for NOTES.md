@@ -1,13 +1,11 @@
-- [ ] event loop- <https://javascript.info/event-loop>
-- [ ] rtk notes 
+- [x] rtk notes 
 - [ ] class constructor
 - [ ] node js
-- [x] usememo
-- [x] useref
-- [x] gec
+- [ ] express
 - [ ] pagination
 - [ ] events
-- [x] non blocking io
-- [ ] cleanup function
-- [x] cdn
+- [ ] what happens when we npm init
+- [x] cleanup function
+- [ ] checksum
+
 

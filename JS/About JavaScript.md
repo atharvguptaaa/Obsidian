@@ -1,3 +1,4 @@
+
 - JavaScript is a single-threaded, non-blocking, asynchronous concurrent language.
 
 - It has a call stack, an event loop, and a callback queue + other APIs.
